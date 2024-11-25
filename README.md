@@ -1,6 +1,6 @@
 # Manual Testing Project - TimeWise Web Application
 
-This repository contains my work of **manually testing TimeWise Web Application**. The project is completed using a combination of manual testing techniques and test management tools. I was testing **basic functionalities of the App**, such as user registration, login, profile editing, task creation and management. I have documented around 30 test cases divided in several test scenarios and identified several bugs and issues.
+This repository contains my work on **manually testing TimeWise Web Application**. The project is completed using a combination of manual testing techniques and test management tools. I was assessing **basic functionalities of the App**, such as user registration, login, profile editing, task creation and management. I have documented around 30 test cases divided in different scenarios. I identified several bugs and issues.
 
 ## About the project
 
@@ -22,6 +22,7 @@ This repository contains my work of **manually testing TimeWise Web Application*
 	 - Home Page and Navigation;
 	 - Profile Management;
 	 - Task Creation and Management
+	 - 
 	 
     2.2. Selected screenshots from TestRail with test runs & results per test suite available. 
     
@@ -38,3 +39,18 @@ This repository contains my work of **manually testing TimeWise Web Application*
  6. **Screenshots** - folder with all screenshots available divided into 2 subfolders (**Jira** and **TestRail**)
 
 ## Metrics
+### Landing Page
+Pass rate of the test cases: 75%.
+### User Registration
+Pass rate of the test cases: 40%.
+### User Login
+Pass rate of the test cases: 40%.
+### Home Page and Navigation
+Pass rate of the test cases: 100%.
+### Profile Management
+Pass rate of the test cases: 50%.
+### Task Creation and Management
+Pass rate of the test cases: 67%.
+
+## Conslusion
+We need futher testing in areas with low pass rate because as per one of the 7 Testing Principles "Defects cluster together".
