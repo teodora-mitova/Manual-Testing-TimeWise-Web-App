@@ -15,7 +15,7 @@ This repository contains my work of **manually testing TimeWise Web Application*
  1. **SRS** - software requirements specification file for TimeWise Web Application
  2. **Test-Cases-and-Scenarios folder**:
  
- 2.1. Excel file which can be downloaded. It contains 6 sheets (1 per use case):
+    2.1. Excel file which can be downloaded. It contains 6 sheets (1 per use case):
 	 - Landing Page;
 	 - User Registration;
 	 - User Login;
@@ -23,8 +23,10 @@ This repository contains my work of **manually testing TimeWise Web Application*
 	 - Profile Management;
 	 - Task Creation and Management
 	 
-	2.2. Selected screenshots from TestRail with test runs & results per test suite available. All screenshots are located in the Screenshots folder.
+    2.2. Selected screenshots from TestRail with test runs & results per test suite available. 
     
+>All screenshots are located in the Screenshots folder.
+
 >All test cases available in the Excel file [Test-Cases-and-Scenarios](https://docs.google.com/spreadsheets/d/1LDBKhe7wP2DTNsJa7Hlmkz8PuntUbGd4/edit?usp=sharing&ouid=115748439234259643632&rtpof=true&sd=true)
  4. **Logged-Bugs folder**:
 	 
