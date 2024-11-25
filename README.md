@@ -22,14 +22,13 @@ This repository contains my work on **manually testing TimeWise Web Application*
 	 - Home Page and Navigation;
 	 - Profile Management;
 	 - Task Creation and Management
-	 - 
 	 
     2.2. Selected screenshots from TestRail with test runs & results per test suite available. 
     
 >All screenshots are located in the Screenshots folder.
 
 >All test cases available in the Excel file [Test-Cases-and-Scenarios](https://docs.google.com/spreadsheets/d/1LDBKhe7wP2DTNsJa7Hlmkz8PuntUbGd4/edit?usp=sharing&ouid=115748439234259643632&rtpof=true&sd=true)
- 4. **Logged-Bugs folder**:
+ 1. **Logged-Bugs folder**:
 	 
      4.1. Excel file which can be downloaded. It contains all identified bugs.
 	 
